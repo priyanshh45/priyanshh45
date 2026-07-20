@@ -25,6 +25,22 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,mysql,sqlite,git,github,vscode,linux" />
 </p>
 
-🏏 Spectators in the Stadium
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/priyanshh45/priyanshh45/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Spectators&color=1E90FF&style=for-the-badge)
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:priyanshh45?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshh45/priyanshh45/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshh45/priyanshh45/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyanshh45/priyanshh45/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
