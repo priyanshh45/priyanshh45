@@ -25,17 +25,9 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,mysql,sqlite,git,github,vscode,linux" />
 </p>
 
-<div data-importer="stats" align="center">
-<img height="150"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshh45&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
-###
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:priyanshh45?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
-
-
